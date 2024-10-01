@@ -175,6 +175,3 @@ func main() {
 		return
 	}
 }
-
-// text2
-// авыаыва
